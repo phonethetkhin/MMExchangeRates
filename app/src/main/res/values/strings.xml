@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MMExchangeRates</string>
+    <string name="loading">Loading...Please Wait...</string>
+    <string name="connection_error_message">No internet connection! Please check your internet connection.</string>
+
+</resources>
